@@ -1,2 +1,2 @@
-# OMG-First-Web-Design
-This is my first simple web design using HTML and CSS only
+#First-Web-Design
+This repo consists of designing a simple web-page using HTML, CSS for beginners
